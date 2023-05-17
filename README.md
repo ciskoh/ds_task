@@ -14,7 +14,7 @@
 Obtained projections from google earth
 
 # Setup 
-run `pip install requirements.txt`from the main folder to install all the needed libraries
+run `pip install -r requirements.txt`from the main folder to install all the needed libraries
 
 
 **WARNING**: a temporary GoogleEarthEngine account has been setup. Please use the deep-bolt***.json file for logging in
